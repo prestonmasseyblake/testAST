@@ -1,0 +1,5 @@
+HOW TO RUN THE PROGRAM   
+
+cmake . 
+make
+./my_tool main.cpp
