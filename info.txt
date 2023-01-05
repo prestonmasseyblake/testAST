@@ -1,5 +1,8 @@
 HOW TO RUN THE PROGRAM   
+----------------------
+copy the folder to the Docker  
 
 cmake . 
 make
 ./my_tool main.cpp
+
